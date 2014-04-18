@@ -1,4 +1,6 @@
+require 'thepiratebay/fetch'
 require 'thepiratebay/search'
+require 'thepiratebay/top'
 require 'thepiratebay/torrent'
 require 'thepiratebay/category'
 require 'thepiratebay/sort_by'
